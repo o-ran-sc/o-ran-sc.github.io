@@ -1,5 +1,5 @@
 [gerrit]
-host=gerrit.oran-osc.org
+host=gerrit.o-ran-sc.org
 port=29418
-project=oran-osc.github.io.git
+project=o-ran-sc.github.io.git
 
